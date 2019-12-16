@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HospitalManagement", "HospitalManagement\HospitalManagement.vcxproj", "{94396B33-910A-42DF-B4AB-8DBBD014511A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94396B33-910A-42DF-B4AB-8DBBD014511A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{94396B33-910A-42DF-B4AB-8DBBD014511A}.Debug|Win32.Build.0 = Debug|Win32
+		{94396B33-910A-42DF-B4AB-8DBBD014511A}.Release|Win32.ActiveCfg = Release|Win32
+		{94396B33-910A-42DF-B4AB-8DBBD014511A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
